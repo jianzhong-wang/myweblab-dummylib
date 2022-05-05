@@ -46,5 +46,14 @@
     "> 1%",
     "last 2 versions",
     "not dead"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jianzhong-wang/myweblab-dummylib"
+  },
+  "homepage": "https://github.com/jianzhong-wang/myweblab-dummylib",
+  "keywords": [
+    "vue",
+    "dummylib"
   ]
 }

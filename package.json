@@ -8,6 +8,7 @@
     "email": "jzwang.dev@gmail.com",
     "url": "https://github.com/jianzhong-wang"
   },
+  "main": "./dist/dummylib.common.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
